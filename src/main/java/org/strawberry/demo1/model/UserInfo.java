@@ -9,6 +9,9 @@ public class UserInfo {
     public UserInfo(String username, String gender, int age, String address) {
         this.username = username;
         this.gender = gender;
+
+
+
         this.age = age;
         this.address = address;
     }
